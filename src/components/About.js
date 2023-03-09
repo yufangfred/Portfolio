@@ -18,7 +18,7 @@ function About() {
 								</p>
 								<p className="slide-in-bottom">
 									I love to build and fix things. <br></br>
-									My motto is{' '}
+									My motto is
 									<span className="text-red ls-2">
 										Progress over Perfection
 									</span>
@@ -26,7 +26,7 @@ function About() {
 								<p className="slide-in-bottom">
 									Previously worked as Full stack web
 									developer.<br></br>
-									The technology I've worked on :{' '}
+									The technology I've worked on :
 									<span className="text-red ls-2">
 										React, Node, .NET, Java Spring <br></br>
 										AWS, Azure, GCP, Docker, Kubernetes,

@@ -15,8 +15,7 @@ function Home() {
 									I'm Yufang,
 								</h1>
 								<p className="ls-2 mt-2 slide-in-bottom">
-									Full Stack Engineer / Poker Player / Story
-									Teller
+									Full Stack Engineer / Poker Strategist
 								</p>
 							</div>
 						</div>
@@ -24,7 +23,7 @@ function Home() {
 						<div className="col-lg-6 col-md-12 col-sm-12">
 							<img
 								className="img-fluid"
-								src="../images/nomad-bro.png"
+								src="../images/hand-coding.png"
 								alt="..."
 							></img>
 						</div>
